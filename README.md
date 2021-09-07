@@ -19,7 +19,7 @@ See notes on [IoT Cloud Service Providers](IoT%20Cloud%20Service%20Providers.md)
 - PlatformIO is framework agnostic
 - ESP-IDF used for Espressif's ESP32 framework
 
-See notes on [[IoT Development Environments]] for details
+See notes on [IoT Development Environments](IoT%20Development%20Environments.md) for details.
 
 ## Hardware under consideration
 Strong contenders are:
@@ -40,7 +40,7 @@ See notes in [iot courses and guides](iot%20courses%20and%20guides.md) for detai
 ### Beginner
 1. Compare MQTT and HTTP as comm. protocols
 	1. Send the same telemetry data using both and compare their sizes
-	- Video 
+	- See [video on Pub/Sup pattern used in MQTT](https://www.youtube.com/watch?v=HCzQJMdHcy0&list=PLRkdoPznE1EMXLW6XoYLGd4uUaB6wB0wd&index=3) or [read the notes here](https://www.hivemq.com/blog/mqtt-essentials-part2-publish-subscribe/).
 
 ### Intermediate Level
 

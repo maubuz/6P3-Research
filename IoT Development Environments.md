@@ -1,6 +1,6 @@
 # IoT Development Environments
 
-Dev environtments under consideration for [6P3 IoT Ideas & Inspiration](6P3%20IoT%20Ideas%20&%20Inspiration.md)
+Dev environtments under consideration for [README](README.md)
 
 There are 3 possible development environments to use for the course:
 
